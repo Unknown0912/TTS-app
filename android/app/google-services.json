@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044772189272",
+    "project_id": "texttospeech-1f146",
+    "storage_bucket": "texttospeech-1f146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044772189272:android:3a157a425a818bee97062d",
+        "android_client_info": {
+          "package_name": "com.example.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044772189272-rmcjurg326v4ed096771tm2ffdsbo1bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV4sVdQXlfKkWnRnzEbZrG4tQDB6IbieY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044772189272-rmcjurg326v4ed096771tm2ffdsbo1bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
